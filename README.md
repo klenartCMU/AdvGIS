@@ -1,3 +1,3 @@
 # AdvGIS
 
-Link to live site: https://klenartcmu.github.io/AdvGIS/
+[Link](https://klenartcmu.github.io/AdvGIS/) to live site
