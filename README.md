@@ -1,4 +1,4 @@
-# AdvGIS
+# Advanced GIS, Spring 2020
 
 # About me
 
