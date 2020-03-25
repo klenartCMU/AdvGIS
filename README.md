@@ -4,7 +4,7 @@
 
 She/her/hers
 
-I am a second-year PPM student with an interest in policy analysis and program evaluation. Prior to coming to Heinz, I studied history, economics, and business at Villanova (go Wildcats!) before going to University of Delaware for my Master's in history. While there, my research focused on popular culture and social movements after World War II. After graduating, I worked in the archives and object collections of a historical society and a public health association.
+I am a second-year PPM student with an interest in policy analysis and program evaluation. Prior to coming to Heinz, I studied history, economics, and business at Villanova (go Wildcats!) before going to University of Delaware for my Master's in history. While there, my research focused on popular culture and social movements during the 20th century. After graduating, I worked in the archives and object collections of a historical society and a public health association.
 
 I had originally become interested in policy development and analysis through my museum studies coursework at Delaware. I had worked with five other students to draft and help pass legislation to address issues that museums and other entities faced regarding abandoned cultural property, which refers to objects that are in a museum's possession but that the museum does not have legal title to. This resulted in a lasting interest in developing evidence-based policy solutions and evaluating current policies, which ultimately led me to Heinz.
 
