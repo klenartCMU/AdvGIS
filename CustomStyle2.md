@@ -2,7 +2,7 @@
 
 Tools used: [Adobe Color Trends](https://color.adobe.com/trends) and [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/vector-tile-style-editor/)
 
-For this assignment, I decided to use another source of inspiration than last week’s because my first custom map relied on more of a monochromatic scale, and I wanted to experiment with creating a map style using different colors. For inspiration, I used a concert poster (Links to an external site.) designed by Jim Franklin for a Big Brother and the Holding Company show in San Antonio in 1968. (The concert was cancelled, but the poster is still really cool.) Using Adobe’s color trends, I found an existing palette that captured a more muted essence of the poster’s colors fairly well:
+For this assignment, I decided to use another source of inspiration than last week’s because my first custom map relied on more of a monochromatic scale, and I wanted to experiment with creating a map style using different colors. For inspiration, I used a [concert poster](http://sanantonioremembers.blogspot.com/2011_11_01_archive.html) designed by Jim Franklin for a Big Brother and the Holding Company show in San Antonio in 1968. (The concert was cancelled, but the poster is still really cool.) Using Adobe’s color trends, I found an existing palette that captured a more muted essence of the poster’s colors fairly well:
 
 <p align="center">
 <img src="DustyRainbow_Crop.jpg">
