@@ -6,7 +6,9 @@ The inspiration for my custom map style came from an exhibition I saw at the Vic
 
 For this project, I decided to base my palette on one of the designs in the exhibition that stood out to me at the time. (This photograph was never intended to be used for anything but my own reference, so I apologize for the low quality.)
 
-<img src="IMG_0772.jpg" width="25%" height="25%">
+<p align="center">
+  <img src="IMG_0772.jpg" width="25%" height="25%">
+  </p>
 
 Based on this image, Canva provided the following color scheme:
 
