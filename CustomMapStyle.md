@@ -13,7 +13,7 @@ For this project, I decided to base my palette on one of the designs in the exhi
 Based on this image, Canva provided the following color scheme:
 
 <p align="center">
-  <img src="Canva.png" width="25%" height="25%">
+  <img src="Canva.png" width="50%" height="50%">
   </p>
 
 When applying these colors to the custom map, I chose to visualize London and the surrounding areas, as several significant events in Quant’s life (birth, education, her first boutique, etc.) can be traced across the region. My goal was to emulate the pattern of the dress on the map – a darker base with black lines for borders, roads, etc. and lighter/brighter tones for points of interest and landscape features. I played around with the map’s color scheme for a while to experiment with different visualizations, but found that this one was the most visually interesting. Because color and overall visual style were the emphases of my map, I experimented with other aspects of the map to diminish distractions from these core elements. For example, I removed Google’s default labels for certain attractions and roads. This enhanced the map’s quality as a visual statement (but further reduced its usefulness as a navigational tool).
