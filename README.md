@@ -1,4 +1,4 @@
-# Advanced GIS, Spring 2020
+# Kate Lenart's Portfolio - Advanced GIS, Spring 2020
 
 ---
 
