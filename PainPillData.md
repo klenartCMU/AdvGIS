@@ -8,7 +8,7 @@ I found ArcGIS Insights to be fairly simple and intuitive to use. The "card" sys
 I liked getting the opportunity to experiment with the maps and the platform's other visualization types. Below is the map I created, as well as a sample from the other visualizations I was looking at. I found this one interesting because it so starkly shows the proportion of units at the largest buyers, especially Strosnider. If I were to work on this more, it would be cool to color coordinate the map and graph to more clearly show the connections between them.
 
 <p align="center">
-<img width="50%" height="50%" src="Mingo_Map.png">
+<img width="75%" height="75%" src="Mingo_Map.png">
 </p> 
 
 #### 1.  What did you learn from working with these data and performing this analysis?
