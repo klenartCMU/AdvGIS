@@ -1,5 +1,7 @@
 # Advanced GIS, Spring 2020
 
+---
+
 # About me
 
 She/her/hers
@@ -19,7 +21,9 @@ While I am looking forward to further developing my skills in ArcGIS Pro during 
 This space will contain links to my map examples and other visualizations.
 
 [Custom map style with Google Map Styling Wizard](CustomMapStyle.md)
+
 [Custom map style with ArcGIS Vector Tile Style Editor](CustomStyle2.md)
+
 [Visualizing Pain Pill Data using ArcGIS Insights](PainPillData.md)
 
 [Link](https://klenartcmu.github.io/AdvGIS/) to live site
