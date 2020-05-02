@@ -16,8 +16,6 @@ While I am looking forward to further developing my skills in ArcGIS Pro during 
 
 ### Portfolio
 
-This space will contain links to my map examples and other visualizations.
-
 [Custom map style with Google Map Styling Wizard](CustomMapStyle.md)
 
 [Custom map style with ArcGIS Vector Tile Style Editor](CustomStyle2.md)
