@@ -22,6 +22,4 @@ While I am looking forward to further developing my skills in ArcGIS Pro during 
 
 [Visualizing Pain Pill Data using ArcGIS Insights](PainPillData.md)
 
-[Mapbox Sheet Mapper Tutorial Map](index.html)
-
 [Link](https://klenartcmu.github.io/AdvGIS/) to live site
